@@ -1,2 +1,2 @@
 # Currency-Converter
-Developed a responsive Amazon clone using pure HTML and CSS, replicating key UI components like the navbar, product listings, and cart layout. Focused on clean design, Flexbox/Grid, and structured styling.
+A responsive Currency Converter built with HTML, CSS, and JavaScript. Fetches real-time exchange rates using an API, supports multiple currencies, dynamically updates country flags, and provides accurate currency conversion with a clean UI.
